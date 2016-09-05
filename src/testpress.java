@@ -18,6 +18,8 @@ import com.android.uiautomator.testrunner.UiAutomatorTestCase;
 public class testpress extends UiAutomatorTestCase {
      String telephone ;
 	 public void testinput() throws UiObjectNotFoundException, IOException {
+		 testReport  report =new testReport();
+		
 //		UiCollection collect=new UiCollection(new UiSelector().className("android.widget.FrameLayout"));
 //		UiSelector   childPattern = new UiSelector().className("android.widget.TextView");
 //		int i=collect.getChildCount(new UiSelector().className("android.widget.RelativeLayout"));
@@ -28,9 +30,14 @@ public class testpress extends UiAutomatorTestCase {
 //		zhuce.click();
 //		String storePath ="/data/local/tmp/shot.png";
 //		UiDevice.getInstance().takeScreenshot(new File(storePath));
-		Runtime.getRuntime().exec("cmd.exe /cp /data/local/tmp/shot.png  d:\1.png");
-		 
-		 
+//		UiObject obj =new UiObject(new UiSelector().focused(true));
+//		obj.setText("你好啊");
+		 report.report(1,true);
+		 UiDevice.getInstance().pressBack();
+		 UiDevice.getInstance().pressBack();
+		 UiDevice.getInstance().pressBack();
+		 UiDevice.getInstance().pressHome();
+		 report.report(2,false);
 	 }
 //       Bundle  getphone =getParams();
 //       telephone=getphone.getString("getphone");
