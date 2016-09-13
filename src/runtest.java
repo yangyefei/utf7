@@ -16,7 +16,7 @@ public class runtest {
 		String jarName, testClass, testName, androidId;
 		jarName="demo";
 		testClass="testpress";
-		testName="testinput";
+		testName="";
 		androidId="1";
 		new UiAutomatorHelper(jarName, testClass, testName, androidId);
 //		UiObject Zhanghu=new UiObject(new UiSelector().resourceId("com.easyrongchuangye:id/mine_user_name"));

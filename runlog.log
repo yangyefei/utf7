@@ -7280,3 +7280,4273 @@ OK (1 test)
 
 INSTRUMENTATION_STATUS_CODE: -1
 
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+553 KB/s (5098 bytes in 0.009s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.522
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+620 KB/s (5083 bytes in 0.008s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.536
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+1002 KB/s (5134 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+1.第一个测试用例：Pass
+
+2.第二个测试用例：Fail
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.645
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+251 KB/s (5156 bytes in 0.020s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+*********测试报告*********
+
+1.第一个测试用例：Pass
+
+*********测试报告*********
+
+2.第二个测试用例：Fail
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.756
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+163 KB/s (5179 bytes in 0.031s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+************测试报告**************
+
+1.第一个测试用例：Pass
+
+2.第二个测试用例：Fail
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.366
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: E:\workspaces\com.android.e\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 4 source files to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+281 KB/s (5181 bytes in 0.018s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+************测试报告**************
+
+1.第一个测试用例：Pass
+
+2.第二个测试用例：Fail
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.12
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+203 KB/s (5216 bytes in 0.025s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+************测试报告**************
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+1.第一个测试用例：Pass
+
+2.第二个测试用例：Fail
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.939
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+11 KB/s (5214 bytes in 0.440s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+************测试报告**************
+
+INSTRUMENTATION_STATUS: numtests=2
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+1.第一个测试用例：Pass
+
+2.第二个测试用例：Fail
+
+INSTRUMENTATION_STATUS: numtests=2
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: numtests=2
+
+INSTRUMENTATION_STATUS: stream=
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testpress
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=2
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=2
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testpress
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=2
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=..
+
+Time: 4.582
+
+
+
+OK (2 tests)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+284 KB/s (5247 bytes in 0.018s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+************测试报告**************
+
+INSTRUMENTATION_STATUS: numtests=2
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+1.第一个测试用例：Pass
+
+2.第二个测试用例：Fail
+
+INSTRUMENTATION_STATUS: numtests=2
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: numtests=2
+
+INSTRUMENTATION_STATUS: stream=
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testpress
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=2
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+3.第3个测试用例：Fail
+
+INSTRUMENTATION_STATUS: numtests=2
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testpress
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=2
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=..
+
+Time: 4.59
+
+
+
+OK (2 tests)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: E:\workspaces\com.android.e\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 13 source files to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] ע: E:\workspaces\com.android.e\src\com\beetstra\jutf7\CharsetProvider.javaʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+adb server is out of date.  killing...
+* daemon started successfully *
+25 KB/s (11938 bytes in 0.455s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testinput:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=com.android.mms:id/embedded_text_editor]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:25)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=com.android.mms:id/embedded_text_editor]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:25)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 11.757
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+13 KB/s (11938 bytes in 0.852s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testinput:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=com.android.mms:id/embedded_text_editor]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:25)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=com.android.mms:id/embedded_text_editor]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:25)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 11.744
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb server is out of date.  killing...
+* daemon started successfully *
+247 KB/s (11924 bytes in 0.047s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.084
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+554 KB/s (11924 bytes in 0.021s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testinput:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:25)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:25)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 11.681
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+582 KB/s (11924 bytes in 0.020s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.052
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+647 KB/s (11928 bytes in 0.018s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testinput:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:11)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:11)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 11.74
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+613 KB/s (11928 bytes in 0.019s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.053
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 8 source files to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] ע: E:\workspaces\com.android.e\src\com\beetstra\jutf7\CharsetProvider.javaʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+485 KB/s (11928 bytes in 0.024s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testinput:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:11)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:11)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 11.738
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+613 KB/s (11928 bytes in 0.019s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.129
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+528 KB/s (11914 bytes in 0.022s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testinput:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:11)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:11)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 11.751
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+581 KB/s (11914 bytes in 0.020s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testinput:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:11)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:11)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 11.757
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+582 KB/s (11934 bytes in 0.020s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testinput:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:11)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:11)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 11.815
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+554 KB/s (11924 bytes in 0.021s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testinput:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:11)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Type message]
+
+	at com.android.uiautomator.core.UiObject.clearTextField(UiObject.java:623)
+
+	at com.android.uiautomator.core.UiObject.setText(UiObject.java:595)
+
+	at testpress.testinput(testpress.java:11)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 11.723
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb server is out of date.  killing...
+* daemon started successfully *
+466 KB/s (11948 bytes in 0.025s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 5.983
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+614 KB/s (11948 bytes in 0.019s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 5.929
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+26 KB/s (11951 bytes in 0.438s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 6.012
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+530 KB/s (11951 bytes in 0.022s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.062
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+233 KB/s (11951 bytes in 0.050s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.977
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+194 KB/s (11951 bytes in 0.060s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.492
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+233 KB/s (11946 bytes in 0.050s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.35
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+155 KB/s (11970 bytes in 0.075s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.437
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+169 KB/s (11993 bytes in 0.069s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 6.899
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+234 KB/s (12022 bytes in 0.050s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 10.407
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1467 KB/s (12022 bytes in 0.008s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 10.674
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+101 KB/s (12021 bytes in 0.116s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 10.933
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+adb server is out of date.  killing...
+* daemon started successfully *
+234 KB/s (12021 bytes in 0.050s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 11.607
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+217 KB/s (12021 bytes in 0.054s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 10.917
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+6 KB/s (11948 bytes in 1.841s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.997
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\workspaces\com.android.e\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+2 KB/s (12019 bytes in 5.019s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 4.376
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.e\build.xml
+Buildfile: E:\workspaces\com.android.e\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.e\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.e\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.e\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+1676 KB/s (12019 bytes in 0.007s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 4.604
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\workspaces\com.android.first\build.xml
+Buildfile: E:\workspaces\com.android.first\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.1
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: E:\workspaces\com.android.first\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 12 source files to E:\workspaces\com.android.first\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] ע: E:\workspaces\com.android.first\src\com\beetstra\jutf7\CharsetProvider.javaʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\workspaces\com.android.first\bin\classes
+      [dex] Converting compiled files and external libraries into E:\workspaces\com.android.first\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\workspaces\com.android.first\bin\demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+adb server is out of date.  killing...
+* daemon started successfully *
+264 KB/s (11115 bytes in 0.041s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+testpress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testinput
+
+INSTRUMENTATION_STATUS: class=testpress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 4.479
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+

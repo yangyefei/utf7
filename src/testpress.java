@@ -1,25 +1,29 @@
-import java.io.File;
-import java.io.IOException;
+import jp.jun_nama.test.utf7ime.helper.Utf7ImeHelper;
 
-import android.content.res.Configuration;
-import android.os.Bundle;
+import android.view.KeyEvent;
 
-import com.android.uiautomator.core.Configurator;
-import com.android.uiautomator.core.UiCollection;
 import com.android.uiautomator.core.UiDevice;
 import com.android.uiautomator.core.UiObject;
 import com.android.uiautomator.core.UiObjectNotFoundException;
-import com.android.uiautomator.core.UiScrollable;
 import com.android.uiautomator.core.UiSelector;
-import com.android.uiautomator.core.UiWatcher;
 import com.android.uiautomator.testrunner.UiAutomatorTestCase;
 
-
 public class testpress extends UiAutomatorTestCase {
-     String telephone ;
-	 public void testinput() throws UiObjectNotFoundException, IOException {
-		 testReport  report =new testReport();
+	public void testinput() throws UiObjectNotFoundException {
+		UiObject obj =new UiObject(new UiSelector().resourceId("com.android.mms:id/recipients_editor"));
+	 if(obj.getText() != null){
+		UiDevice.getInstance().pressKeyCode(KeyEvent.KEYCODE_DEL);}
+//	  sleep(5000);
+obj.setText(Utf7ImeHelper.e("sdfsdf1231ad地方手术费 "));
+	}
+	
+//     String telephone ;
+//     testReport  report =new testReport();
+//	 public void testinput() throws UiObjectNotFoundException, IOException {
 		
+
+		
+	
 //		UiCollection collect=new UiCollection(new UiSelector().className("android.widget.FrameLayout"));
 //		UiSelector   childPattern = new UiSelector().className("android.widget.TextView");
 //		int i=collect.getChildCount(new UiSelector().className("android.widget.RelativeLayout"));
@@ -32,13 +36,17 @@ public class testpress extends UiAutomatorTestCase {
 //		UiDevice.getInstance().takeScreenshot(new File(storePath));
 //		UiObject obj =new UiObject(new UiSelector().focused(true));
 //		obj.setText("你好啊");
-		 report.report(1,true);
-		 UiDevice.getInstance().pressBack();
-		 UiDevice.getInstance().pressBack();
-		 UiDevice.getInstance().pressBack();
-		 UiDevice.getInstance().pressHome();
-		 report.report(2,false);
-	 }
+//		 report.report(1,true);
+//	 UiDevice.getInstance().pressKeyCode(KeyEvent.KEYCODE_0);
+//		 UiDevice.getInstance().pressBack();
+//		 UiDevice.getInstance().pressHome();
+//		 report.report(2,false);
+//	 }
+//	 public void testpress(){
+//		 UiDevice.getInstance().pressBack();
+//		 UiDevice.getInstance().pressHome();
+//		 report.report(3,false);
+//	 }
 //       Bundle  getphone =getParams();
 //       telephone=getphone.getString("getphone");
 //       UiObject input1 =new UiObject(new UiSelector().resourceId("com.easyrongchuangye:id/register_mobile_edit_tv"));
@@ -72,6 +80,6 @@ public class testpress extends UiAutomatorTestCase {
 //		});
 //	 }
 
-		
+		public void testa(){}
 	}
 
